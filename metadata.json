@@ -1,0 +1,6 @@
+{
+  "name": "NOUN Study Hub",
+  "description": "Central digital learning resource and AI-powered examination preparation platform for National Open University of Nigeria (NOUN) students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
